@@ -1,2 +1,4 @@
 # Speech-Recognition
-This is [live link](https://ttluan411.github.io/Speech-Recognition/) .Dont forget to enable your microphone. Have fun!
+* [live link](https://ttluan411.github.io/Speech-Recognition/) 
+* Dont forget to enable your microphone
+* Have fun!
